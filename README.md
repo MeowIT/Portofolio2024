@@ -1,3 +1,3 @@
 # Portofolio2024
-Portofolio made with React, Javascript and Tailwind
+Portofolio made with React
 
